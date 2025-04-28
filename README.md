@@ -48,7 +48,7 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 ---
 
 ## Link Project
-- **Repository GitHub**: [Tabemono App - GitHub](https://github.com/alvinalfandy) (Ganti dengan link repo project)
+- **Repository GitHub**: [Tabemono App - GitHub](https://github.com/alvinalfandy/TabemonoApp)
 - **Trello SCRUM Board**: [Tabemono - Trello](https://trello.com/b/2Rr5uCf7/tabemono)
 
 ---
