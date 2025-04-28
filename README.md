@@ -39,10 +39,11 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 | Alvin Alfandy | 312310473 |
 | Abidzar Sabil | 3123104XX |
 | Ridho Fauzi| 3123104XX |
-| Ridho Fauzi  | 3123104XX |
+| Daffa Sadewa Putra  | 3123104XX |
 ---
 
 ## Storyboard Aplikasi
+![0ba42d0d-1f65-4856-b94d-330c039decf8](https://github.com/user-attachments/assets/ca41bf12-fd4f-45eb-968b-4bb04aea5116)
 
 
 ---
