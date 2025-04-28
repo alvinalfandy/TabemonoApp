@@ -39,7 +39,7 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 | [Alvin Alfandy](https://github.com/alvinalfandy) | 312310473 |
 | [Abidzar Sabil](https://github.com/eufroshine) | 312310471 |
 | [Ridho Fauzi](https://github.com/RidhoFauzi-A5) | 312310563 |
-| [Daffa Sadewa Putra](https://github.com/Daffasp) | 3123104XX |
+| [Daffa Sadewa Putra](https://github.com/Daffasp) | 312310463 |
 ---
 
 ## Storyboard Aplikasi
