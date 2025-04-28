@@ -53,7 +53,4 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 
 ---
 
-## Cara Menjalankan
-1. Clone repository:
-   ```bash
-   git clone https://github.com/alvinalfandy/NAMA_REPO_ANDA.git
+
