@@ -36,10 +36,10 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 ## Anggota Kelompok
 | Nama | NIM |
 |:-----------------------------|:------------|
-| Alvin Alfandy | 312310473 |
-| Abidzar Sabil | 312310471 |
-| Ridho Fauzi| 3123104XX |
-| Daffa Sadewa Putra  | 3123104XX |
+| [Alvin Alfandy](https://github.com/alvinalfandy) | 312310473 |
+| [Abidzar Sabil](https://github.com/eufroshine) | 312310471 |
+| [Ridho Fauzi](https://github.com/RidhoFauzi-A5) | 3123104XX |
+| [Daffa Sadewa Putra](https://github.com/Daffasp) | 3123104XX |
 ---
 
 ## Storyboard Aplikasi
@@ -57,6 +57,8 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 ## Link Project
 - **Repository GitHub**: [Tabemono App - GitHub](https://github.com/alvinalfandy/TabemonoApp)
 - **Trello SCRUM Board**: [Tabemono - Trello](https://trello.com/b/2Rr5uCf7/tabemono)
+- **Website**: [Tabemono Web](https://tabemono.my.id)
+
 
 ---
 
