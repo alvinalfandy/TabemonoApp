@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+
+    <!-- Orange square with rounded corners -->
+    <path
+        android:fillColor="#FF7F50"
+        android:pathData="M8,0L48,0A8,8 0,0 1,56 8L56,48A8,8 0,0 1,48 56L8,56A8,8 0,0 1,0 48L0,8A8,8 0,0 1,8 0z" />
+
+    <!-- White rice part -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,8L44,8A4,4 0,0 1,48 12L48,36A4,4 0,0 1,44 40L12,40A4,4 0,0 1,8 36L8,12A4,4 0,0 1,12 8z" />
+
+    <!-- Fish topping -->
+    <path
+        android:fillColor="#FF7F50"
+        android:fillAlpha="0.7"
+        android:pathData="M18,16L38,16A2,2 0,0 1,40 18L40,26A2,2 0,0 1,38 28L18,28A2,2 0,0 1,16 26L16,18A2,2 0,0 1,18 16z" />
+
+    <!-- Seaweed wrap at bottom -->
+    <path
+        android:fillColor="#40E0D0"
+        android:fillAlpha="0.3"
+        android:pathData="M12,40L44,40A4,4 0,0 1,48 44L48,48A4,4 0,0 1,44 52L12,52A4,4 0,0 1,8 48L8,44A4,4 0,0 1,12 40z" />
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChefAI</string>
+    <string name="app_slogan">Masak Keren, Gampang!</string>
+    <string name="input_hint">Ketik bahan yang lo punya...</string>
+    <string name="send_button">Kirim</string>
+    <string name="app_logo">Logo Aplikasi</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62970665639",
+    "project_id": "resep-app-4d318",
+    "storage_bucket": "resep-app-4d318.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62970665639:android:0305f868b3403723551982",
+        "android_client_info": {
+          "package_name": "com.example.aplikasichefai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJf_7uC82JrBh4itQY3PXdzu7LmWtOb4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
