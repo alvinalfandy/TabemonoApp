@@ -37,7 +37,7 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 | Nama | NIM |
 |:-----------------------------|:------------|
 | Alvin Alfandy | 312310473 |
-| Abidzar Sabil | 3123104XX |
+| Abidzar Sabil | 312310471 |
 | Ridho Fauzi| 3123104XX |
 | Daffa Sadewa Putra  | 3123104XX |
 ---
