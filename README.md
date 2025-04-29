@@ -25,11 +25,32 @@ Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesio
 > (Screenshots akan ditambahkan di sini)
 
 - Halaman Login
+  
+  ![image](https://github.com/user-attachments/assets/0510e440-4a9c-4295-8b7e-9f34d2980ebe)
+
 - Halaman Register
+  
+![image](https://github.com/user-attachments/assets/88336fa8-ab07-4033-b43f-2a35e913a760)
+
+- halaman home
+![image](https://github.com/user-attachments/assets/a536cc43-4474-4d6e-b93e-896689570afd)
+
+  
 - Halaman Feed Resep
+![image](https://github.com/user-attachments/assets/a230113b-2ea9-4b4a-ae2a-50cf169517f1)
+
+  
 - Halaman Detail Resep
+![image](https://github.com/user-attachments/assets/9b90e571-0b7a-4628-b493-cdfa9619f1d1)
+
+  
 - Halaman Tambah Resep
+![image](https://github.com/user-attachments/assets/d1580c8f-bbc0-44bc-af16-b3a6ea5ab935)
+
+  
 - Halaman AI Recommendation
+![image](https://github.com/user-attachments/assets/35846416-0d11-4444-9ea9-5052094a5a12)
+
 
 ---
 
